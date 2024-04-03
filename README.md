@@ -27,6 +27,9 @@ npm install hexo-deployer-git --save
 
 Deploy:
 ```
+cd blog
+hexo clean OR hexo cl
+hexo generate OR hexo g
 hexo deploy OR hexo d
 ```
 
